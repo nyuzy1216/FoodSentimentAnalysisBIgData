@@ -63,12 +63,12 @@ Below is an overview of the code files used in this project:
 
 ### Data Cleaning
 
-- `Clean.java`: Main driver for data cleaning on Yelp reviews.
-- `CleanMapper.java`: Mapper class for cleaning Yelp reviews.
-- `CleanReducer.java`: Reducer class for cleaning Yelp reviews.
-- `YelpClean.java`: Main driver for data cleaning on Yelp reviews.
-- `YelpCleanMapper.java`: Mapper class for cleaning Yelp reviews.
-- `YelpCleanReducer.java`: Reducer class for cleaning Yelp reviews.
+- `Clean.java`: Original Main driver for data cleaning on Yelp reviews.
+- `CleanMapper.java`: Original Mapper class for cleaning Yelp reviews.
+- `CleanReducer.java`: Original Reducer class for cleaning Yelp reviews.
+- `YelpClean.java`: New Main driver for data cleaning on Yelp reviews.
+- `YelpCleanMapper.java`: New Mapper class for cleaning Yelp reviews.
+- `YelpCleanReducer.java`: New Reducer class for cleaning Yelp reviews.
 
 ### Sentiment Analysis
 
