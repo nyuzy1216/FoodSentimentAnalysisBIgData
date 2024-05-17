@@ -28,12 +28,11 @@ Our approach involved several key stages:
 
 1. **Data Ingestion**: Collecting data from Yelp and Amazon and storing it using Apache Hadoop's HDFS.
 2. **Data Cleaning and Profiling**: Removing malformed entries, converting timestamps, and generating summary statistics using Apache Spark.
-3. **Sentiment Analysis**: Utilizing NLP techniques and machine learning algorithms within the Apache Spark framework to classify reviews into positive, neutral, or negative sentiments.
+3. **Sentiment Analysis**: Utilizing NLP techniques and machine learning algorithms within the Apache Spark & MapReduce framework to classify reviews into positive, neutral, or negative sentiments.
 
 ### Tools and Technologies
 - **Apache Hadoop**: For distributed data storage and processing.
 - **Apache Spark**: For fast big data analytics.
-- **MLlib**: Machine learning library in Apache Spark.
 - **Natural Language Processing (NLP)**: Techniques for text preprocessing and sentiment analysis.
 
 ## Key Findings
